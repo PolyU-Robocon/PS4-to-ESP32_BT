@@ -1,1 +1,1 @@
-# Xbox-to-ESP32_BT
+# PS4-to-ESP32_BT
